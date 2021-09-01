@@ -1,0 +1,18 @@
+{
+  "app": {
+    "name": "Test application",
+    "version": "1",
+    "bar": {
+      "title": "My title"
+    }
+  },
+  "lang": {
+    "hr": "Hrvatski",
+    "en": "English"
+  },
+  "page":{
+    "home": {
+      "current_lang": "Current language is"
+    }
+  }
+}
