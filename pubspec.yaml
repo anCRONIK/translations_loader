@@ -1,6 +1,6 @@
 name: translations_loader
 description: Flutter library for reading translations files and transforming them into Map to be by some framework like GetX
-version: 1.0.1
+version: 1.0.2
 
 homepage: https://github.com/anCRONIK/translations_loader
 repository: https://github.com/anCRONIK/translations_loader
